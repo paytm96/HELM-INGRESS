@@ -45,7 +45,6 @@ Steps:
 					# BudgetTracker Dockerfile for UI
 					#
 					FROM nginx:latest
-					MAINTAINER Sadhvi Nayak
 
 					USER root
 
