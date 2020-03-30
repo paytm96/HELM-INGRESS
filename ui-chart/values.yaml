@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: localhost:5000/ui-helm-poc
+  repository: jaga96/spring-mongo
   tag: latest
   pullPolicy: Always
 
